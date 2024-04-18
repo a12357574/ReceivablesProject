@@ -1,0 +1,4 @@
+what is present here is the work of the past, major changes tomorrow soon (cope)
+
+to run this, just do the standard laravel stuff,
+open xampp => apache and mysql => php artisan:migrate => php artisan:serve => don't look at it its very not good and not finished at all this version/.
